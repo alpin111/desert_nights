@@ -1,0 +1,15 @@
+{
+  "name": "desert_nights",
+  "theme": "syntax",
+  "version": "0.0.0",
+  "description": "A night-desert-like SYNTAX THEME for the Atom UI THEME 'One Dark'.",
+  "keywords": [
+    "syntax",
+    "theme"
+  ],
+  "repository": "https://github.com/alpin111/desert_nights",
+  "license": "MIT",
+  "engines": {
+    "atom": ">=1.0.0 <2.0.0"
+  }
+}
